@@ -73,7 +73,8 @@ This tool is **Strictly for educational,testing, and defensive purposes**. Unaut
 
 ## :bust_in_silhouette: Author
 
-Edward Hudson Jr.
+**Edward Hudson Jr.**  
+Aspiring Cybersecurity & IT Professional | Building Experience Through Hands-On Projects and Labs.
 
 - LinkedIn <https://www.linkedin.com/in/edwardhudsonjrofficial>
 
