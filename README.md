@@ -61,19 +61,15 @@ Follow the prompts:
 2. Specify a port range (or leave default).
 3. Review the list of open ports detected
 
+## :test_tube: :scroll: Example Screenshot
+
+| Target Host | Port | Screenshot Results |
+|----------|--------------|-------------|
+| scanme.nmap.org | Start Port: 20 End Port: 80 | ![Port Scanner Test](images/ScreenshotTest.png) |
+
 ## :balance_scale: Ethical Disclaimer
 
 This tool is **Strictly for educational,testing, and defensive purposes**. Unauthorized scanning of networks without explicit permission is illegal and unethical. By using this tool, you agree to use it responsibly and in compliance with all applicable laws.
-
-## :file_folder: File Structure Should look like the following below
-
-```bash
-port-scanner/
-│
-├─ port_scanner.py      # Main Python script
-├─ README.md            # Project documentation
-└─ requirements.txt     # Dependencies (if applicable)
-```
 
 ## :bust_in_silhouette: Author
 
